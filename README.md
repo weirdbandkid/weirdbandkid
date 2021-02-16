@@ -9,7 +9,10 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 </a>
 <a href="https://discord.gg/46HQ9rJ">
   <img align="left" alt="Mod Bot's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+</a> 
+
+Here are weirdbandkid's stats
+
 
 ![github statistics](https://github-readme-stats.vercel.app/api?username=weirdbandkid&show_icons=true&theme=tokyonight)
 
