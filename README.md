@@ -11,6 +11,7 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
   <img align="left" alt="Mod Bot's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a> 
 
+# 
 
 # Here are weirdbandkid's stats:
 
