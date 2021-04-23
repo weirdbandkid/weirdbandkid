@@ -23,7 +23,7 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 </a>
 
 <a href="https://github.com/weirdbandkid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid&repo=discord-rpc&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid&repo=discordrpc&theme=material-palenight" />
 </a>    
 <a href="https://github.com/weirdbandkid/weirdbandkid.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid&repo=weirdbandkid.github.io&theme=material-palenight" />
