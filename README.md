@@ -25,7 +25,7 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 <a href="https://github.com/weirdbandkid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid&repo=discordrpc&theme=vision-friendly-dark" />
 </a>    
-<a href="https://github.com/weirdbandkid/weirdbandkid.github.io">
+<a href="https://github.com/weirdbandkid-games/weirdbandkid-games.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid-games&repo=weirdbandkid-games.github.io&theme=vision-friendly-dark" />
 </a>
 
