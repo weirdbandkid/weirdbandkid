@@ -16,17 +16,20 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 # Here are weirdbandkid's stats:
 
 
-![github statistics](https://github-readme-stats.vercel.app/api?username=weirdbandkid&show_icons=true&theme=tokyonight)
+![github statistics](https://github-readme-stats.vercel.app/api?username=weirdbandkid&show_icons=true&theme=vision-friendly-dark)
 
 <a href="https://github.com/weirdbandkid">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=weirdbandkid&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=weirdbandkid&layout=compact&theme=vision-friendly-dark" />
 </a>
 
 <a href="https://github.com/weirdbandkid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid&repo=discordrpc&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid&repo=discordrpc&theme=vision-friendly-dark" />
 </a>    
 <a href="https://github.com/weirdbandkid/weirdbandkid.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid&repo=weirdbandkid.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid-games&repo=weirdbandkid-games.github.io&theme=vision-friendly-dark" />
 </a>
+
+[![Weirdbandkid.games Stats](https://github-readme-stats.vercel.app/api/wakatime?username=weirdbandkid)](https://github.com/weirdbandkid-games/weirdbandkid-games.github.io)
+
 
 ![](https://komarev.com/ghpvc/?username=weirdbandkid)
