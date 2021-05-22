@@ -22,8 +22,8 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=weirdbandkid&layout=compact&theme=vision-friendly-dark" />
 </a>
 
-<a href="https://github.com/weirdbandkid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid&repo=discordrpc&theme=vision-friendly-dark" />
+<a href="https://github.com/weirdbandkid-games/discordrpc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid-games&repo=discordrpc&theme=vision-friendly-dark" />
 </a>    
 <a href="https://github.com/weirdbandkid-games/weirdbandkid-games.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid-games&repo=weirdbandkid-games.github.io&theme=vision-friendly-dark" />
