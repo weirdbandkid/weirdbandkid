@@ -18,6 +18,11 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 
 ![github statistics](https://github-readme-stats.vercel.app/api?username=weirdbandkid&show_icons=true&theme=vision-friendly-dark)
 
+
+<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=weirdbandkid&theme=dracula&bg_color=000000&hide_border=false" alt="GitHub Activity" /><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=weirdbandkid&cnt_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br><br>
+
 <a href="https://github.com/weirdbandkid">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=weirdbandkid&layout=compact&theme=vision-friendly-dark" />
 </a>
