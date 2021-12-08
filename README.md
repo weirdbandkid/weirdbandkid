@@ -16,7 +16,7 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 ![](https://img.shields.io/badge/Learning-Python-informational?logo=python&logoColor=white&color=3776ab)
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=000000)
 ![](https://img.shields.io/website?down_color=red&down_message=down&up_color=success&up_message=online&url=https%3A%2F%2Fwww.weirdbandkid.games)
- 
+![](https://img.shields.io/discord/713125432618385500?label=Discord&style=for-the-badge)
 
 # Here are weirdbandkid's stats:
 
