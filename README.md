@@ -27,20 +27,44 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 
 <img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=weirdbandkid&theme=dracula&bg_color=000000&hide_border=false" alt="GitHub Activity" /><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=weirdbandkid&cnt_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/><br><br>
 
 <a href="https://github.com/weirdbandkid">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=weirdbandkid&layout=compact&theme=vision-friendly-dark" />
 </a>
-
+<br>
 <a href="https://github.com/weirdbandkid-games/discordrpc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid-games&repo=discordrpc&theme=vision-friendly-dark" />
-</a>    
+</a>   
+<br>
 <a href="https://github.com/weirdbandkid-games/weirdbandkid-games.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid-games&repo=weirdbandkid-games.github.io&theme=vision-friendly-dark" />
 </a>
 
-[![Weirdbandkid.games Stats](https://github-readme-stats.vercel.app/api/wakatime?username=weirdbandkid)](https://github.com/weirdbandkid-games/weirdbandkid-games.github.io)
 
+---
 
-![](https://komarev.com/ghpvc/?username=weirdbandkid)
+### ⚙️ My Resources & Tools:
+
+- OS: Windows 10
+- Laptop:
+```yml
+  CPU: Intel i7-1165G7
+  RAM: 16gb DDR4 @ 3200 MHz
+  Boot Drive: 1 TB NVMe SSD
+  GPU: Integrated Graphics
+  Model: 2021 HP ENVY x360
+  ```
+- Desktop: 
+```yml
+  CPU: Intel i7-10700F
+  Motherboard: MSI B460M PRO-VDH WIFI
+  RAM: Corsair Vengeance LPX 32gb DDR4 3600MHz
+  GPU: MSI GeForce RTX 2060 GAMING Z 6G
+  Boot Drive: ADATA SU720 480GB
+  PSU: Cosair RM 650x
+  Case: Cosair iCUE 220T RGB Airflow Tempered Glass Mid-Tower Smart Case — Black
+  Keyboard: Corsair K95 Platinum (Cherry MX Silver)
+  Mouse: Logitech G502 Hero
+  ```
+- Code Editor: VSCode
+
