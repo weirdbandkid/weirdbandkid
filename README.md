@@ -64,6 +64,6 @@ Desktop:
   Case: Cosair iCUE 220T RGB Airflow Tempered Glass Mid-Tower Smart Case — Black
   Keyboard: Corsair K95 Platinum (Cherry MX Silver)
   Mouse: Logitech G502 Hero
-  ```
-- Code Editor: VSCode
 
+Code Editor: VSCode
+  ```
