@@ -44,18 +44,17 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 ---
 
 ### ⚙️ My Resources & Tools:
-
-- OS: Windows 10
-- Laptop:
 ```yml
+Laptop:
+  OS: Windows 10
   CPU: Intel i7-1165G7
   RAM: 16gb DDR4 @ 3200 MHz
   Boot Drive: 1 TB NVMe SSD
   GPU: Integrated Graphics
   Model: 2021 HP ENVY x360
-  ```
-- Desktop: 
-```yml
+  
+Desktop:
+  OS: Windows 10
   CPU: Intel i7-10700F
   Motherboard: MSI B460M PRO-VDH WIFI
   RAM: Corsair Vengeance LPX 32gb DDR4 3600MHz
