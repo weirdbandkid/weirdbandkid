@@ -15,9 +15,10 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 ![](https://img.shields.io/badge/Primary%20Language-JavaScript-informational?logo=javascript&logoColor=white&color=F0DB4F)
 ![](https://img.shields.io/badge/Learning-Python-informational?logo=python&logoColor=white&color=3776ab)
 ![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=000000)
-![](https://img.shields.io/website?down_color=red&down_message=down&up_color=success&up_message=online&url=https%3A%2F%2Fwww.weirdbandkid.games)
+<!--![](https://img.shields.io/website?down_color=red&down_message=down&up_color=success&up_message=online&url=https%3A%2F%2Fwww.weirdbandkid.games)-->
 ![](https://img.shields.io/discord/713125432618385500?label=Discord)
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3440?logoColor=white%26project=%26recentMS=0%26showProject=false)
+<!--![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3440?logoColor=white%26project=%26recentMS=0%26showProject=false)-->
+[![wakatime](https://wakatime.com/badge/user/30f67704-0cd9-4058-b906-2af99adc83ff.svg)](https://wakatime.com/@30f67704-0cd9-4058-b906-2af99adc83ff)
 
 # Here are weirdbandkid's stats:
 
