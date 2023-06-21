@@ -1,45 +1,23 @@
 # Hi, I'm *weirdbandkid*
+I am a college student that is currently studying Cyber Security and Networking. I was the top of my class at my technical school during high school. I studied Cisco Networking and Cyber Security while I was there. I recieved college credit after taking the [NOCTI](https://www.nocti.org/) [Computer Networking](https://www.nocti.org/wp-content/uploads/Blueprints/JRComNtwkgFund4514.pdf) standardized test with a score of 72.2 (National average 50.1, State average 53.0).
+
+
 I am a self-taught programmer in JavaScript. I wouldn't call myself good programmer any kind. If the code works it works. Am I right?
 
-<a href="https://twitter.com/hflem_5_soccer">
-  <img align="left" alt="Hunter Fleming | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/cEhU6VF">
-  <img align="left" alt="Hunter's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-<a href="https://discord.gg/46HQ9rJ">
-  <img align="left" alt="Mod Bot's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a> 
 
-![](https://img.shields.io/badge/Editor-VSCode-informational?logo=visual-studio-code&logoColor=white&color=3069C6)
-![](https://img.shields.io/badge/Primary%20Language-JavaScript-informational?logo=javascript&logoColor=white&color=F0DB4F)
-![](https://img.shields.io/badge/Learning-Python-informational?logo=python&logoColor=white&color=3776ab)
-![](https://img.shields.io/badge/OS-Windows-informational?logo=windows&logoColor=white&color=000000)
-<!--![](https://img.shields.io/website?down_color=red&down_message=down&up_color=success&up_message=online&url=https%3A%2F%2Fwww.weirdbandkid.games)-->
-![](https://img.shields.io/discord/713125432618385500?label=Discord)
-![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3440?logoColor=white%26project=%26recentMS=0%26showProject=false)
-[![wakatime](https://wakatime.com/badge/user/30f67704-0cd9-4058-b906-2af99adc83ff.svg)](https://wakatime.com/@30f67704-0cd9-4058-b906-2af99adc83ff)
-
-# Here are weirdbandkid's stats:
+# Here are my stats:
 
 
 ![github statistics](https://github-readme-stats.vercel.app/api?username=weirdbandkid&show_icons=true&theme=vision-friendly-dark)
 
 
-<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=weirdbandkid&theme=dracula&bg_color=000000&hide_border=false" alt="GitHub Activity" /><br><br>
+<!--<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=weirdbandkid&theme=dracula&bg_color=000000&hide_border=false" alt="GitHub Activity" /><br><br>-->
 
 
 <a href="https://github.com/weirdbandkid">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=weirdbandkid&layout=compact&theme=vision-friendly-dark" />
 </a>
-<br>
-<a href="https://github.com/weirdbandkid-games/discordrpc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid-games&repo=discordrpc&theme=vision-friendly-dark" />
-</a>   
-<br>
-<a href="https://github.com/weirdbandkid-games/weirdbandkid-games.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weirdbandkid-games&repo=weirdbandkid-games.github.io&theme=vision-friendly-dark" />
-</a>
+
 
 
 ---
@@ -68,3 +46,18 @@ Desktop:
 
 Code Editor: VSCode
   ```
+
+### Posible College Build ([link](https://pcpartpicker.com/user/weirdbandkid/saved/sR3BvK))
+```yml
+Desktop:
+  OS: Windows 10
+  CPU: 	Intel Core i7-13700K
+  Motherboard: MSI PRO B760M-A WIFI DDR4
+  RAM: Corsair Vengeance LPX 32gb DDR4 3200MHz
+  GPU: MSI VENTUS 2X OC GeForce RTX 3070 LHR 8 GB 
+  Boot Drive: Samsung 980 Pro 1 TB
+  PSU: 	EVGA SuperNOVA 850 GM 850 W 80+ Gold
+  Case: Deepcool MACUBE 110
+  Keyboard: Corsair K70 RGB MK.2
+  Mouse: Logitech G502 Hero
+```
