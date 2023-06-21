@@ -47,7 +47,7 @@ Desktop:
 Code Editor: VSCode
   ```
 
-### Posible College Build ([link](https://pcpartpicker.com/user/weirdbandkid/saved/sR3BvK))
+### Possible College Build ([link](https://pcpartpicker.com/user/weirdbandkid/saved/sR3BvK))
 ```yml
 Desktop:
   OS: Windows 10
