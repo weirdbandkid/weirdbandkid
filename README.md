@@ -24,6 +24,18 @@ I am a self-taught programmer in JavaScript. I wouldn't call myself good program
 
 ### ⚙️ My Resources & Tools:
 ```yml
+Desktop at College:
+  OS: Windows 10
+  CPU: 	Intel Core i7-13700K
+  Motherboard: MSI PRO B760M-A WIFI DDR4
+  RAM: Corsair Vengeance LPX 32gb DDR4 3200MHz
+  GPU: MSI VENTUS 2X OC GeForce RTX 3070 LHR 8 GB 
+  Boot Drive: Samsung 980 Pro 1 TB
+  PSU: 	EVGA SuperNOVA 850 GM 850 W 80+ Gold
+  Case: Deepcool MACUBE 110
+  Keyboard: Corsair K70 RGB MK.2
+  Mouse: Logitech G502 Hero
+
 Laptop:
   OS: Windows 10
   CPU: Intel i7-1165G7
@@ -32,7 +44,7 @@ Laptop:
   GPU: Integrated Graphics
   Model: 2021 HP ENVY x360
   
-Desktop:
+Desktop at Home:
   OS: Windows 10
   CPU: Intel i7-10700F
   Motherboard: MSI B460M PRO-VDH WIFI
@@ -46,7 +58,7 @@ Desktop:
 
 Code Editor: VSCode
   ```
-
+<!--
 ### Possible College Build ([link](https://pcpartpicker.com/user/weirdbandkid/saved/sR3BvK))
 ```yml
 Desktop:
@@ -61,3 +73,4 @@ Desktop:
   Keyboard: Corsair K70 RGB MK.2
   Mouse: Logitech G502 Hero
 ```
+-->
