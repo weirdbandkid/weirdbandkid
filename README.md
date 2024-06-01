@@ -33,11 +33,11 @@ Desktop at College:
   Boot Drive: Samsung 980 Pro 1 TB
   PSU: 	EVGA SuperNOVA 850 GM 850 W 80+ Gold
   Case: Deepcool MACUBE 110
-  Keyboard: Corsair K70 RGB MK.2
+  Keyboard: Corsair K70 Core
   Mouse: Logitech G502 Hero
 
 Laptop:
-  OS: Windows 10
+  OS: Windows 11/Ubuntu 24.02 (dual boot)
   CPU: Intel i7-1165G7
   RAM: 16gb DDR4 @ 3200 MHz
   Boot Drive: 1 TB NVMe SSD
