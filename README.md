@@ -1,8 +1,11 @@
 # Hi, I'm *weirdbandkid*
-I am a college student that is currently studying Cyber Security and Networking. I was the top of my class at my technical school during high school. I studied Cisco Networking and Cyber Security while I was there. I recieved college credit after taking the [NOCTI](https://www.nocti.org/) [Computer Networking](https://www.nocti.org/wp-content/uploads/Blueprints/JRComNtwkgFund4514.pdf) standardized test with a score of 72.2 (National average 50.1, State average 53.0).
+I am a college student that is currently studying Cyber Security and Networking. I was the top of my class at my technical school during high school. I studied Cisco Networking and Cyber Security while I was there.
 
+I am a self-taught programmer in JavaScript, Bash, Batch, Powershell, and more. I wouldn't call myself good programmer any kind. If the code works it works. Am I right?
 
-I am a self-taught programmer in JavaScript. I wouldn't call myself good programmer any kind. If the code works it works. Am I right?
+# Background/Experience
+ - I am the IT Manager & SysAdmin over at [Storm Server Hosting](https://stormserverhosting.com). There I manage all internal and external systems, such as Proxmox, Active Directory, KVM Hypervisors, web servers, Docker Hosts, and a lot more.
+ - I also work at my college as an IT Services Desk assistant, where I work on the help desk answering phone calls, helping walkup users, and creating tickets.
 
 
 # Here are my stats:
