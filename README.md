@@ -1,20 +1,84 @@
-# Hi, I'm *weirdbandkid*
-I am a college student that is currently studying Cyber Security and Networking. I was the top of my class at my technical school during high school. I studied Cisco Networking and Cyber Security while I was there.
+# Hi, I'm Hunter 👋
 
-I am a self-taught programmer in JavaScript, Bash, Batch, Powershell, and more. I wouldn't call myself good programmer any kind. If the code works it works. Am I right?
+I'm an IT professional with a passion for networking, systems administration, virtualization, and infrastructure design. What started as a home lab hobby turned into a career supporting and managing enterprise environments.
 
-# Background/Experience
- - I am the IT Manager & SysAdmin over at [Storm Server Hosting](https://stormserverhosting.com). There I manage all internal and external systems, such as Proxmox, Active Directory, KVM Hypervisors, web servers, Docker Hosts, and a lot more.
- - I also work at my college as an IT Services Desk assistant, where I work on the help desk answering phone calls, helping walkup users, and creating tickets.
+I enjoy building reliable systems, automating repetitive tasks, and solving complex technical challenges. My interests include networking, virtualization, Linux, storage, cybersecurity, cloud technologies, and self-hosted services.
 
+While I've written my fair share of PowerShell, Bash, JavaScript, and other scripts, I still follow a simple philosophy:
 
+> If it works and I can maintain it later, it's good code.
+
+## 💼 Experience
+
+### Network Technician — Frederick County Public Schools
+
+- Support one of Maryland's largest K-12 technology environments serving approximately 50,000 students and staff.
+- Work with enterprise networking, virtualization, storage, endpoint management, and Microsoft technologies.
+- Assist with maintaining and troubleshooting critical infrastructure that supports daily educational operations.
+
+### IT Manager & System Administrator — Storm Server Hosting, LLC
+
+- Manage infrastructure for a volunteer-run hosting provider offering VPS, web hosting, dedicated servers, and game hosting services.
+- Administer Proxmox VE, KVM, Active Directory, Linux servers, Docker, web hosting platforms, monitoring systems, and networking infrastructure.
+- Design, deploy, and maintain both customer-facing and internal services across multiple locations.
+
+## 🛠️ Technologies
+
+### Infrastructure & Virtualization
+- Proxmox VE
+- VMware
+- KVM
+- Docker
+- Linux
+- Windows Server
+
+### Networking
+- Cisco
+- Juniper
+- OSPF
+- EVPN/VXLAN
+- VLANs
+- Network Design & Troubleshooting
+
+### Storage & Backup
+- ZFS
+- Veeam
+- Pure Storage
+
+### Monitoring & Automation
+- LibreNMS
+- GitLab
+- PowerShell
+- Bash
+- JavaScript
+
+## 🔬 Interests
+
+- Enterprise Infrastructure
+- Network Engineering
+- Cybersecurity
+- Automation
+- Self-Hosting
+- Open Source
+- Home Lab Projects
+
+## 📫 Connect With Me
+
+- Website: https://hunterslab.net
+
+---
+
+> "There is no test environment, only production."
+
+<!--
 # Here are my stats:
 
 
 ![github statistics](https://github-readme-stats.vercel.app/api?username=weirdbandkid&show_icons=true&theme=vision-friendly-dark)
 
 
-<!--<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=weirdbandkid&theme=dracula&bg_color=000000&hide_border=false" alt="GitHub Activity" /><br><br>-->
+<!--<img src = "https://lostgirljourney-on-github.herokuapp.com/graph?username=weirdbandkid&theme=dracula&bg_color=000000&hide_border=false" alt="GitHub Activity" /><br><br>
+- ->
 
 
 <a href="https://github.com/weirdbandkid">
@@ -24,7 +88,7 @@ I am a self-taught programmer in JavaScript, Bash, Batch, Powershell, and more. 
 
 
 ---
-
+<!--
 ### ⚙️ My Resources & Tools:
 ```yml
 Desktop at College:
